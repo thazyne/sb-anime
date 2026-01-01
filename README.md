@@ -256,7 +256,4 @@ CREATE TABLE anime (
 );
 ```
 
-## Lisensi
-
-Project ini dibuat untuk keperluan pembelajaran.
 
